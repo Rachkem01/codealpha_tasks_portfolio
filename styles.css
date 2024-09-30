@@ -62,6 +62,7 @@ nav  .fa{
 }
 #bar{
     margin-top: 30px;
+    margin-left: 50px;
 }
 .profile-content{
     display: flex;
@@ -296,7 +297,7 @@ margin-left: 80px;
     }
 }
 
-nav ul.active{
+nav ul .active{
     display: flex;
     flex-direction: column;
 }
@@ -309,6 +310,8 @@ nav ul.active{
         display: none;
         margin-left: -40px;
     }
+   
+    
 nav{
     margin-left: -40px;
 }
